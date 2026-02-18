@@ -1,4 +1,8 @@
-# SSE-data-scraper
+# china-hk-market-data
+## HKEX-data-scraper
+I gathered daily stock data for each firm in the Hong Kong Stock Exchange.
+
+## SSE-data-scraper
 I gathered daily stock data for each firm in the Shanghai Stock Exchange.
 
 First, I scraped the Shanghai Stock Exchange Website to get all the firms present.
